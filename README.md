@@ -30,3 +30,11 @@ Deep reinforcement learning:
 
 AlphaGO: 
  * http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html
+
+Generative Adversarial Networks
+ * https://arxiv.org/abs/1406.2661
+ * https://arxiv.org/abs/1611.06430
+
+Model calibration
+ * http://machinelearning.wustl.edu/mlpapers/paper_files/icml2005_Niculescu-MizilC05.pdf
+ * http://www.research.ibm.com/people/z/zadrozny/kdd2002-Transf.pdf
