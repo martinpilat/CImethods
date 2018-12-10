@@ -36,5 +36,5 @@ Generative Adversarial Networks
  * https://arxiv.org/abs/1611.06430
 
 Model calibration
- * http://machinelearning.wustl.edu/mlpapers/paper_files/icml2005_Niculescu-MizilC05.pdf
- * http://www.research.ibm.com/people/z/zadrozny/kdd2002-Transf.pdf
+ * https://www.cs.cornell.edu/~alexn/papers/calibration.icml05.crc.rev3.pdf
+ * http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.7457&rep=rep1&type=pdf
