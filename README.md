@@ -6,6 +6,18 @@ Teach advanced methods combining evolutionary algorithms, neural networks, and o
 
 ## Additional study resources/papers
 
+Models for Surrogate Modelling
+ * Gaussian Processes - https://en.wikipedia.org/wiki/Kriging, https://gaussianprocess.org/gpml/chapters/RW.pdf
+ * Kernel Density Estimation (base of TPE) - https://en.wikipedia.org/wiki/Kernel_density_estimation
+ * Tree-Structured Parzen Estimator - https://arxiv.org/pdf/2304.11127, https://proceedings.neurips.cc/paper_files/paper/2011/file/86e8f7ab32cfd12577bc2619bc635690-Paper.pdf
+
+Adversarial Examples
+ * FGSM method - https://arxiv.org/abs/1412.6572
+ * One-Pixel Attack - https://arxiv.org/abs/1710.08864
+ * Attacking Object Detectors - https://www.youtube.com/watch?v=MIbFvK2S9g8
+ * Patch Attacks - https://arxiv.org/abs/1712.09665
+ * Attack on Self-Driving Vehicles - https://keenlab.tencent.com/en/whitepapers/Experimental_Security_Research_of_Tesla_Autopilot.pdf
+
 Deep Style: 
  * https://arxiv.org/abs/1508.06576
  * DeepDream blog https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html
